@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zzangzs
 - 👀 I’m interested in movies, K-pop, swimming, also a big cat lover :)
 - 🌱 I’m currently learning Digital Signal Processing and Differential Equations.
-- 💞️ I’m looking to collaborate on ACM and AI4ALL projects XD
+- 💞️ I’m looking to collaborate on ALDA and AI4ALL projects XD
 - 📫 WeChat@zzangzs, Instagram@zzangzs2021
 
 <!---
