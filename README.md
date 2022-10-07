@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @zzangzs
-- 👀 I’m interested in movies, K-pop, swimming, also a big cat lover :)
+- 👋 Hi, I’m Zisu Jiang
+- 👀 I’m interested in movies, K-pop, swimming, also a big cat lover
 - 🌱 I’m currently learning Artificial Intelligence, Operating Systems and Algorithms
 - 💞️ I’m looking for internships and research opportunies during Summer 2023
 - 📫 zisuj2@gmail.com, Discord@zzangzs#6252
