@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zzangzs
 - 👀 I’m interested in movies, K-pop, swimming, also a big cat lover :)
-- 🌱 I’m currently learning Digital Signal Processing and Differential Equations.
-- 💞️ I’m looking to collaborate on ALDA and AI4ALL projects XD
-- 📫 WeChat@zzangzs, Instagram@zzangzs2021
+- 🌱 I’m currently learning Artificial Intelligence, Operating Systems and Algorithms
+- 💞️ I’m looking for internships and research opportunies during Summer 2023
+- 📫 zisuj2@gmail.com, Discord@zzangzs#6252
 
 <!---
 zzangzs/zzangzs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
